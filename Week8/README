@@ -1,0 +1,3 @@
+In this week the course moved from supervised to unsupervised learning. 
+Concretely, dimensionality reduction and k-means clustering were taught. 
+The assignment involved clustering the most common colours present in an image so as to reduce the number of colours used from 1000s to 16
